@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **HTML,CSS,JAVA**
+- 💬 Ask me about **HTML,CSS,JAVA,Programming Question**
 
 - 📫 How to reach me **jahirulislamofficial5353@gmail.com**
 
